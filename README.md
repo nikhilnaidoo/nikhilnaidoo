@@ -1,4 +1,6 @@
-### Hi there 👋
+eHello and welomce to my git hub 🤩 
+you will be able to find several programs that i have created 🥳
+Please enjoy reading them feel free to give feed back and let me know if you would like to colaborate 😍
 
 <!--
 **nikhilnaidoo/nikhilnaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
